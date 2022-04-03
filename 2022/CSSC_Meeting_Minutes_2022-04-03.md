@@ -57,7 +57,7 @@
 	- Tiered sponsorship?
 
 ## Suggestions
-- Discord channel for cimmunity to give feedback.
+- Discord channel for community to give feedback.
 
 ## Sponsorship
 - Tactics is our principal sponsor
