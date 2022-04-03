@@ -17,6 +17,7 @@
 
 ## Absences
 - Jordan [Vice President]
+- Josh [OCM]
 
 # General Business
 
