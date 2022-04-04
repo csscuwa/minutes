@@ -63,9 +63,9 @@
 - Vice President: Jordan
 - Secretary: Jack
 - Treasurer: Callan
-
-## Ordinary Committee
 - Marketing Officer: Cathy
+
+## General Committee
 - Woman's Rep: Naomi
 - Undergrad Rep: Temporarily unfilled
 - Fresher Rep: Uways
