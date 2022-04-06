@@ -70,7 +70,7 @@
 - Event Marketing: Cathy
 - Set up TV and consoles in the clubroom: Hendrik
 - Reach out to CSSE RE: Student x Staff soccer matches: Uways
-- Collect committee details: Uways
+- Collect committee details: Yasa
 - Set up old website: Maaz
 - Look into new website: Jack
 
