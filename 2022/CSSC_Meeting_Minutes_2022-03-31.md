@@ -55,7 +55,7 @@
 	- Unanimously for
 - Rados
 	- Unanimously for
-- **Welcome Yasranto, Hendrik, Maaz, Josh, and Rados as the OCMs!**
+- **Welcome Yasaranto, Hendrik, Maaz, Josh, and Rados as the OCMs!**
 
 # Welcome 2022 Committee!
 ## Executive Committee
