@@ -58,7 +58,7 @@
 - No space force :(
 
 ## Presidential Thanks
-- The president thanks all committee members for showing coming to the meeting at such short notice.
+- The president thanks all committee members for coming to the meeting at such short notice.
 
 # Conclusion
 
