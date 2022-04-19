@@ -58,7 +58,7 @@
 - No space force :(
 
 ## Presidential Thanks
-- The president thanks all committee members for showing coming to the meeting at such short notice.
+- The president thanks all committee members for coming to the meeting at such short notice.
 
 # Conclusion
 
@@ -70,7 +70,7 @@
 - Event Marketing: Cathy
 - Set up TV and consoles in the clubroom: Hendrik
 - Reach out to CSSE RE: Student x Staff soccer matches: Uways
-- Collect committee details: Uways
+- Collect committee details: Yasa
 - Set up old website: Maaz
 - Look into new website: Jack
 
