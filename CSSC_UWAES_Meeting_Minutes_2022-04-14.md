@@ -2,7 +2,7 @@
 ## Meeting officially starts at 8:31pm 
 
 ## In Attendance:
-- Max ESports [President]
+- Max [ESports President]
 - Jordan Campbell [CSSC Vice-President]
 - Mustafa Saaed [CSSC President]
 - Joel Cheng [ESports Vice-President]
