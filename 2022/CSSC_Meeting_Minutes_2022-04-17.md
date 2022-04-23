@@ -50,7 +50,7 @@
 - Seconded by: Jack Sun
 - Status: RESOLVED (nem con)
 
-## Motion 4: Expansion of CSSC Armed Forces to include space and cyber branches
+## Motion 4: Expansion of the CSSC Armed Forces to include space and cyber branches
 
 - Mover: Jordan Campbell
 - Seconded by: Jack Sun
