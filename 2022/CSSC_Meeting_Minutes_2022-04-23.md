@@ -106,7 +106,7 @@
 ### Special Project Grants
 - Submit applications anyways
 
-## Cashflows
+### Cashflows
 - Need an audit officer
   - Congratulations Rad
 - Need to get list of club's assets and liabilities
