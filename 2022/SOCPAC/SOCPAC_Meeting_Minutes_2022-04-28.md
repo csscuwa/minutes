@@ -32,9 +32,10 @@
 
 ## Club Village?
 - Guild Will provide stalls, marquees, etc. so we can engage with students
+- Different clubs each week in rotation
 - Weeks 2 to 6
 
-## Bob Nickelson Room
+## Bob Nicholson Room
 - Room will be kept staffed starting next week
 - Will be emailed tonight
 
