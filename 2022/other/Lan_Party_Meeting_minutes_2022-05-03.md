@@ -1,4 +1,4 @@
-# CSSC Meeting Minutes 2022-
+# CSSC Meeting Minutes 2022-05-03
 
 ## Meeting Convened: 7:05pm
 
