@@ -38,7 +38,7 @@
 - Seconded by: Jack Sun
 - Status: RESOLVED (nem con)
 
-## Motion 2: Addition of clause to discharge honorary life members in exceptional circumstances
+## Motion 2: Addition of clause to remove honorary life members in exceptional circumstances
 
 - Mover: Jordan Campbell
 - Seconded by: Jack Sun
