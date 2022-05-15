@@ -24,9 +24,9 @@
 
 # Events
 ## Python Workshop Debrief
-- Workhop didn't go as Jordan expected
+- Workhop didn't go as well as hoped
 - Need a curriculum
-- Should be more structured
+- Should be more structured and oriented towards people without experience.
 - Reach out to other clubs
 - Future python workshops postphoned until sem 2
 
@@ -42,13 +42,14 @@
 
 # General Business
 ## Networking
-- GCP to host website for now
+- GCP to host website and other stuff for now
+- Store membership details on firebase?
 
 ## Website
 - Potentially set up a sub committee
 
 ## Clubroom access
-- Looking into give Math Union
+- Looking into give Math Union access
 - Check with Admin regarding keys access
 
 ## Semester 2 Events
