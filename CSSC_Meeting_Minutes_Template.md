@@ -1,8 +1,9 @@
 # CSSC Meeting Minutes 2022-
 
-## Meeting Convened: 
+## Meeting Convened:
 
 ## In Attendance
+
 - Mustafa Saeed [President]
 - Jordan Campbell [Vice President]
 - Callan Gray [Treasurer]
