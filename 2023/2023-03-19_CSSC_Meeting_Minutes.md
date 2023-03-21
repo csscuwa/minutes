@@ -5,11 +5,11 @@
    - Jordan Campbell [President]
    - Hendrik Pascua [Secretary]
    - Kaiqi Liang [Postgrad Rep]
-   - Kirkey
-   - Venu
-   - Jacob
-   - Mahit (Joined 13:04)
-   - Rory (Present from 13:10 - 13:32)
+   - Kirkey [OCM]
+   - Venu [OCM]
+   - Jacob [OCM]
+   - Mahit [OCM] (Joined 13:04)
+   - Rory [OCM] (Present from 13:10 - 13:32)
 
 ## Apologies
 
