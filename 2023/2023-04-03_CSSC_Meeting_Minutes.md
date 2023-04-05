@@ -32,12 +32,7 @@ N/A
 - Crowdstrike event
 - Sort out details with Crowdstrike and emails
 
-# Agenda 4: Club Identity Concerns
-
-- Finding a possible niche for the club to stand out?
-- Hendrik brings up tech union
-
-# Agenda 5: 2 New OCMs added
+# Agenda 4: 2 New OCMs added
 
 - Ralf
 - Krish
