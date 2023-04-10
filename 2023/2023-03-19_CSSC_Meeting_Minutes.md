@@ -5,6 +5,7 @@
    - Jordan Campbell [President]
    - Hendrik Pascua [Secretary]
    - Kaiqi Liang [Postgrad Rep]
+   - Adib [OCM]
    - Kirkey [OCM]
    - Venu [OCM]
    - Jacob [OCM]
