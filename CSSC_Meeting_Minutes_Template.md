@@ -1,4 +1,4 @@
-# CSSC Meeting Minutes 2022-
+# CSSC Meeting Minutes 2024-
 
 ## Meeting Convened:
 
