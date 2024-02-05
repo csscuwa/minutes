@@ -4,20 +4,11 @@
 
 ## In Attendance
 
-- Mustafa Saeed [President]
-- Jordan Campbell [Vice President]
-- Callan Gray [Treasurer]
-- Jack Sun [Secretary]
-- Cathy Ngo [Marketing Officer]
-- Naomi Brough [Equity Rep]
-- Kaiqi Liang [Postgrad Rep]
-- Uways Minty [Fresher Rep]
-- Rad Markovic [OCM]
-- Yasa Wiharja [OCM]
-- Hendrik Pascua [OCM]
-- Maaz Ahmed [OCM]
-- Josh Patton [OCM]
-- Eugene Perdana [OCM]
+- Rory Cusworth [President]
+- Hendrik Pascua [Vice President]
+- Ralf Compuesto [Treasurer]
+- Austin Ngo [Secretary]
+- Krish Dubey [Marketing Officer]
 
 ## Apologies
 
