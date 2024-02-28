@@ -9,6 +9,8 @@
 - Ralf Compuesto [Treasurer]
 - Austin Ngo [Secretary]
 - Krish Dubey [Marketing Officer]
+- Ben Cameron [OCM]
+- Aaron Guo [OCM]
 
 ## Apologies
 
