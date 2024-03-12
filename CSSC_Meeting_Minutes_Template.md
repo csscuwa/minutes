@@ -11,6 +11,11 @@
 - Krish Dubey [Marketing Officer]
 - Ben Cameron [OCM]
 - Aaron Guo [OCM]
+- Ryan Koo [OCM]
+- Sze Ying Lin [OCM]
+- Joshua Mance [OCM]
+- Robert McIntyre [OCM]
+- Samuel Ou [OCM]
 
 ## Apologies
 
