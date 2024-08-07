@@ -10,6 +10,7 @@
 - Austin Ngo [Secretary]
 - Krish Dubey [Marketing Officer]
 - Ben Cameron [OCM]
+- Katia Grabovskaya [OCM]
 - Aaron Guo [OCM]
 - Ryan Koo [OCM]
 - Sze Ying Lin [OCM]
