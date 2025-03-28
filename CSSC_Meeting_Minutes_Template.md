@@ -1,22 +1,9 @@
-# CSSC Meeting Minutes 2024-
+# CSSC Meeting Minutes 2025 TEMP
 
 ## Meeting Convened:
 
 ## In Attendance
-
-- Rory Cusworth [President]
-- Hendrik Pascua [Vice President]
-- Ralf Compuesto [Treasurer]
-- Austin Ngo [Secretary]
-- Krish Dubey [Marketing Officer]
-- Ben Cameron [OCM]
-- Katia Grabovskaya [OCM]
-- Aaron Guo [OCM]
-- Ryan Koo [OCM]
-- Sze Ying Lin [OCM]
-- Joshua Mance [OCM]
-- Robert McIntyre [OCM]
-- Samuel Ou [OCM]
+- Sam S, Rory, Sam O, Ralf, Krish, Ryan, Hendrik, Aaron, Ben, Rory, Austen, Rushil, Preetam, Trinity, Ethan
 
 ## Apologies
 
