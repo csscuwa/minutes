@@ -24,8 +24,8 @@
 
 | Item | Person(s) in Charge | Due By |
 | - | - | - |
-| | |
-| | |
-| | |
+| | | |
+| | | |
+| | | |
 
 ### Meeting End:  
